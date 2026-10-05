@@ -1,3 +1,6 @@
 {
-  "version": "Margelo folks are Awesome (2M9)"
+  "version": "Git Blame violet (ST3)",
+  "patches": {
+    "Margelo folks are Awesome (2M9)": "patches/Margelo_folks_are_Awesome_2M9_-Git_Blame_violet_ST3_.zip"
+  }
 }
