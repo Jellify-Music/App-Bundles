@@ -1,6 +1,6 @@
 {
-  "version": "Thank you pikachu (5PR)",
+  "version": "Git Blame violet (VBR)",
   "patches": {
-    "Git Blame violet (HUF)": "patches/Git_Blame_violet_HUF_-Thank_you_pikachu_5PR_.zip"
+    "Thank you pikachu (5PR)": "patches/Thank_you_pikachu_5PR_-Git_Blame_violet_VBR_.zip"
   }
 }
