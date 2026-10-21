@@ -1,3 +1,6 @@
 {
-  "version": "PULL_REQUEST - Git Blame violet (V7N)"
+  "version": "PULL_REQUEST - meta sue violet (PFF)",
+  "patches": {
+    "PULL_REQUEST - Git Blame violet (V7N)": "patches/PULL_REQUEST_-_Git_Blame_violet_V7N_-PULL_REQUEST_-_meta_sue_violet_PFF_.zip"
+  }
 }
