@@ -1,3 +1,6 @@
 {
-  "version": "PULL_REQUEST - Margelo folks are Awesome (HRX)"
+  "version": "PULL_REQUEST - Git Blame violet (ZAP)",
+  "patches": {
+    "PULL_REQUEST - Margelo folks are Awesome (HRX)": "patches/PULL_REQUEST_-_Margelo_folks_are_Awesome_HRX_-PULL_REQUEST_-_Git_Blame_violet_ZAP_.zip"
+  }
 }
