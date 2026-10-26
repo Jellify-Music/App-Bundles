@@ -1,3 +1,6 @@
 {
-  "version": "PULL_REQUEST - Margelo folks are Awesome (FEU)"
+  "version": "PULL_REQUEST - Margelo folks are Awesome (VBX)",
+  "patches": {
+    "PULL_REQUEST - Margelo folks are Awesome (FEU)": "patches/PULL_REQUEST_-_Margelo_folks_are_Awesome_FEU_-PULL_REQUEST_-_Margelo_folks_are_Awesome_VBX_.zip"
+  }
 }
