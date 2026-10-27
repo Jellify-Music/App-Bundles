@@ -1,3 +1,6 @@
 {
-  "version": "PULL_REQUEST - meta sue violet (8EX)"
+  "version": "PULL_REQUEST - Git Blame violet (GUH)",
+  "patches": {
+    "PULL_REQUEST - meta sue violet (8EX)": "patches/PULL_REQUEST_-_meta_sue_violet_8EX_-PULL_REQUEST_-_Git_Blame_violet_GUH_.zip"
+  }
 }
