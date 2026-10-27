@@ -1,3 +1,6 @@
 {
-  "version": "PULL_REQUEST - Thank you pikachu (46Z)"
+  "version": "PULL_REQUEST - Thank you pikachu (FCN)",
+  "patches": {
+    "PULL_REQUEST - Thank you pikachu (46Z)": "patches/PULL_REQUEST_-_Thank_you_pikachu_46Z_-PULL_REQUEST_-_Thank_you_pikachu_FCN_.zip"
+  }
 }
