@@ -1,3 +1,6 @@
 {
-  "version": "PULL_REQUEST - Margelo folks are Awesome (U36)"
+  "version": "PULL_REQUEST - Margelo folks are Awesome (YLP)",
+  "patches": {
+    "PULL_REQUEST - Margelo folks are Awesome (U36)": "patches/PULL_REQUEST_-_Margelo_folks_are_Awesome_U36_-PULL_REQUEST_-_Margelo_folks_are_Awesome_YLP_.zip"
+  }
 }
