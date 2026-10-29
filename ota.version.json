@@ -1,3 +1,6 @@
 {
-  "version": "PULL_REQUEST - meta sue violet (NTY)"
+  "version": "PULL_REQUEST - Git Blame violet (CI1)",
+  "patches": {
+    "PULL_REQUEST - meta sue violet (NTY)": "patches/PULL_REQUEST_-_meta_sue_violet_NTY_-PULL_REQUEST_-_Git_Blame_violet_CI1_.zip"
+  }
 }
