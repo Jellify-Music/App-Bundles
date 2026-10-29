@@ -1,3 +1,6 @@
 {
-  "version": "PULL_REQUEST - Git Blame violet (478)"
+  "version": "PULL_REQUEST - Git Blame violet (FCY)",
+  "patches": {
+    "PULL_REQUEST - Git Blame violet (478)": "patches/PULL_REQUEST_-_Git_Blame_violet_478_-PULL_REQUEST_-_Git_Blame_violet_FCY_.zip"
+  }
 }
