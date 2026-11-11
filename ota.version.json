@@ -1,3 +1,6 @@
 {
-  "version": "PULL_REQUEST - Margelo folks are Awesome (TVJ)"
+  "version": "PULL_REQUEST - Margelo folks are Awesome (H1N)",
+  "patches": {
+    "PULL_REQUEST - Margelo folks are Awesome (TVJ)": "patches/PULL_REQUEST_-_Margelo_folks_are_Awesome_TVJ_-PULL_REQUEST_-_Margelo_folks_are_Awesome_H1N_.zip"
+  }
 }
