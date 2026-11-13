@@ -1,3 +1,6 @@
 {
-  "version": "meta sue violet (O7D)"
+  "version": "meta sue violet (P9B)",
+  "patches": {
+    "meta sue violet (O7D)": "patches/meta_sue_violet_O7D_-meta_sue_violet_P9B_.zip"
+  }
 }
