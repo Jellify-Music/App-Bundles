@@ -1,3 +1,6 @@
 {
-  "version": "PULL_REQUEST - meta sue violet (EP1)"
+  "version": "PULL_REQUEST - Git Blame violet (1AH)",
+  "patches": {
+    "PULL_REQUEST - meta sue violet (EP1)": "patches/PULL_REQUEST_-_meta_sue_violet_EP1_-PULL_REQUEST_-_Git_Blame_violet_1AH_.zip"
+  }
 }
