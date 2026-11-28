@@ -1,3 +1,6 @@
 {
-  "version": "PULL_REQUEST - meta sue violet (2V5)"
+  "version": "PULL_REQUEST - Git Blame violet (OG1)",
+  "patches": {
+    "PULL_REQUEST - meta sue violet (2V5)": "patches/PULL_REQUEST_-_meta_sue_violet_2V5_-PULL_REQUEST_-_Git_Blame_violet_OG1_.zip"
+  }
 }
